@@ -15,17 +15,23 @@
     "version": "1.0.0",
     "restore": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "projectUniqueName": "C:\\PA\\github_documention\\PL03\\PA\\PL03\\PL03.csproj",
       "projectName": "PL03",
       "projectPath": "C:\\PA\\github_documention\\PL03\\PA\\PL03\\PL03.csproj",
       "packagesPath": "C:\\Users\\2017i\\.nuget\\packages\\",
       "outputPath": "C:\\PA\\github_documention\\PL03\\PA\\PL03\\obj\\",
 =======
+=======
+>>>>>>> Stashed changes
       "projectUniqueName": "C:\\Users\\a22307564\\Documents\\GitHub\\PA_isla\\PL03\\PL03.csproj",
       "projectName": "PL03",
       "projectPath": "C:\\Users\\a22307564\\Documents\\GitHub\\PA_isla\\PL03\\PL03.csproj",
       "packagesPath": "C:\\Users\\a22307564\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\a22307564\\Documents\\GitHub\\PA_isla\\PL03\\obj\\",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "fallbackFolders": [
