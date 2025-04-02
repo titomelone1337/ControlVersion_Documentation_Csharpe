@@ -1,5 +1,9 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> Stashed changes
   "WorkspaceRootPath": "C:\\PA\\github_documention\\PL03\\PA\\",
   "Documents": [
     {
@@ -7,14 +11,25 @@
       "RelativeMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|solutionrelative:pl03\\squareclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|c:\\pa\\github_documention\\pl03\\pa\\pl03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|solutionrelative:pl03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|c:\\pa\\github_documention\\pl03\\pa\\pl03\\rectangleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|solutionrelative:pl03\\rectangleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
+<<<<<<< Updated upstream
+=======
+=======
+  "WorkspaceRootPath": "C:\\Users\\a22307564\\Documents\\GitHub\\PA_isla\\",
+  "Documents": [],
+>>>>>>> abb611be85f4e947c6350265266ef979c051ed27
+>>>>>>> Stashed changes
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> Stashed changes
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -32,26 +47,33 @@
               "RelativeDocumentMoniker": "PL03\\SquareClass.cs",
               "ToolTip": "C:\\PA\\github_documention\\PL03\\PA\\PL03\\SquareClass.cs",
               "RelativeToolTip": "PL03\\SquareClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T14:12:43.653Z",
+              "WhenOpened": "2025-04-02T18:18:30.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PA\\github_documention\\PL03\\PA\\PL03\\Program.cs",
-              "RelativeDocumentMoniker": "PL03\\Program.cs",
-              "ToolTip": "C:\\PA\\github_documention\\PL03\\PA\\PL03\\Program.cs",
-              "RelativeToolTip": "PL03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "rectangleClass.cs",
+              "DocumentMoniker": "C:\\PA\\github_documention\\PL03\\PA\\PL03\\rectangleClass.cs",
+              "RelativeDocumentMoniker": "PL03\\rectangleClass.cs",
+              "ToolTip": "C:\\PA\\github_documention\\PL03\\PA\\PL03\\rectangleClass.cs",
+              "RelativeToolTip": "PL03\\rectangleClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T14:12:02.07Z"
+              "WhenOpened": "2025-04-02T18:18:27.326Z",
+              "EditorCaption": ""
             }
           ]
         }
       ]
+<<<<<<< Updated upstream
+=======
+=======
+      "DocumentGroups": []
+>>>>>>> abb611be85f4e947c6350265266ef979c051ed27
+>>>>>>> Stashed changes
     }
   ]
 }
