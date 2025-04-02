@@ -1,66 +1,12 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\a22307564\\Documents\\GitHub\\PA_isla\\",
   "Documents": [],
-=======
-  "WorkspaceRootPath": "C:\\PA\\github_documention\\PL03\\PA\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|c:\\pa\\github_documention\\pl03\\pa\\pl03\\squareclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|solutionrelative:pl03\\squareclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|c:\\pa\\github_documention\\pl03\\pa\\pl03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|solutionrelative:pl03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
->>>>>>> SquareClass
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-<<<<<<< HEAD
       "DocumentGroups": []
-=======
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SquareClass.cs",
-              "DocumentMoniker": "C:\\PA\\github_documention\\PL03\\PA\\PL03\\SquareClass.cs",
-              "RelativeDocumentMoniker": "PL03\\SquareClass.cs",
-              "ToolTip": "C:\\PA\\github_documention\\PL03\\PA\\PL03\\SquareClass.cs",
-              "RelativeToolTip": "PL03\\SquareClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T14:12:43.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PA\\github_documention\\PL03\\PA\\PL03\\Program.cs",
-              "RelativeDocumentMoniker": "PL03\\Program.cs",
-              "ToolTip": "C:\\PA\\github_documention\\PL03\\PA\\PL03\\Program.cs",
-              "RelativeToolTip": "PL03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T14:12:02.07Z"
-            }
-          ]
-        }
-      ]
->>>>>>> SquareClass
     }
   ]
 }

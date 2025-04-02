@@ -13,6 +13,5 @@ class Program
 
         Console.WriteLine($"\nPerimetro: {rect.Perimetro()}");
         Console.WriteLine($"Area: {rect.Area()}");
- 
     }
 }

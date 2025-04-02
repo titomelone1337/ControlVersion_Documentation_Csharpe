@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "5jjwzgx13FE=",
   "success": true,
   "projectFilePath": "C:\\Users\\a22307564\\Documents\\GitHub\\PA_isla\\PL03\\PL03.csproj",
-=======
-  "dgSpecHash": "P6UgLCIri2Y=",
-  "success": true,
-  "projectFilePath": "C:\\PA\\github_documention\\PL03\\PA\\PL03\\PL03.csproj",
->>>>>>> SquareClass
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\a22307564\\Documents\\GitHub\\PA_isla\\PL03\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
