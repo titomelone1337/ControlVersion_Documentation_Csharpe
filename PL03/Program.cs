@@ -10,7 +10,7 @@ class Program
         Console.Write("altura do retangulo ");
         double heightValue = double.Parse(Console.ReadLine());
         Rectangulo rect = new Rectangulo(baseValue, heightValue);
-
+        //....
         Console.WriteLine($"\nPerimetro: {rect.Perimetro()}");
         Console.WriteLine($"Area: {rect.Area()}");
     }
