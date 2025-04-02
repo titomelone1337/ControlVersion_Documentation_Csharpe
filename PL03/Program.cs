@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+=======
 ﻿using System;
 
 class Program
@@ -15,3 +19,4 @@ class Program
         Console.WriteLine($"Area: {rect.Area()}");
     }
 }
+>>>>>>> Stashed changes
