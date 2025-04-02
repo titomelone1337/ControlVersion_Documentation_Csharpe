@@ -1,0 +1,15 @@
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\bin\Debug\net8.0\PL03.exe
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\bin\Debug\net8.0\PL03.deps.json
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\bin\Debug\net8.0\PL03.runtimeconfig.json
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\bin\Debug\net8.0\PL03.dll
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\bin\Debug\net8.0\PL03.pdb
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\obj\Debug\net8.0\PL03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\obj\Debug\net8.0\PL03.AssemblyInfoInputs.cache
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\obj\Debug\net8.0\PL03.AssemblyInfo.cs
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\obj\Debug\net8.0\PL03.csproj.CoreCompileInputs.cache
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\obj\Debug\net8.0\PL03.sourcelink.json
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\obj\Debug\net8.0\PL03.dll
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\obj\Debug\net8.0\refint\PL03.dll
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\obj\Debug\net8.0\PL03.pdb
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\obj\Debug\net8.0\PL03.genruntimeconfig.cache
+C:\Users\a22307564\Documents\GitHub\PA_isla\PL03\obj\Debug\net8.0\ref\PL03.dll
