@@ -8,7 +8,7 @@ public class Program
 {
     static void Main()
     {
-        // Testes com a classe Rectangulo
+        // Testes com a classe Rectangulo...
         Console.WriteLine("--- Testes com a classe Rectangulo ---");
         try
         {

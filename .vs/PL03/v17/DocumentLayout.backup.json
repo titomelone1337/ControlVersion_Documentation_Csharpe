@@ -1,5 +1,13 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> Stashed changes
+=======
+<<<<<<< HEAD
+>>>>>>> Stashed changes
   "WorkspaceRootPath": "C:\\PA\\github_documention\\PL03\\PA\\",
   "Documents": [
     {
@@ -11,10 +19,31 @@
       "RelativeMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|solutionrelative:pl03\\rectangleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> Stashed changes
+=======
+  "WorkspaceRootPath": "C:\\Users\\a22307564\\Documents\\GitHub\\PA_isla\\",
+  "Documents": [],
+>>>>>>> abb611be85f4e947c6350265266ef979c051ed27
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> Stashed changes
+=======
+<<<<<<< HEAD
+>>>>>>> Stashed changes
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -53,6 +82,18 @@
           ]
         }
       ]
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+=======
+      "DocumentGroups": []
+>>>>>>> abb611be85f4e947c6350265266ef979c051ed27
+>>>>>>> Stashed changes
+=======
+=======
+      "DocumentGroups": []
+>>>>>>> abb611be85f4e947c6350265266ef979c051ed27
+>>>>>>> Stashed changes
     }
   ]
 }

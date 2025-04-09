@@ -1,27 +1,15 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  "dgSpecHash": "P6UgLCIri2Y=",
+  "dgSpecHash": "wahagke51xQ=",
   "success": true,
-  "projectFilePath": "C:\\PA\\github_documention\\PL03\\PA\\PL03\\PL03.csproj",
-=======
-  "dgSpecHash": "5jjwzgx13FE=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\a22307564\\Documents\\GitHub\\PA_isla\\PL03\\PL03.csproj",
->>>>>>> Stashed changes
-=======
-  "dgSpecHash": "5jjwzgx13FE=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\a22307564\\Documents\\GitHub\\PA_isla\\PL03\\PL03.csproj",
->>>>>>> Stashed changes
+  "projectFilePath": "C:\\Users\\andre\\Documents\\GitHub\\PA_isla\\PL03\\PL03.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\a22307564\\Documents\\GitHub\\PA_isla\\PL03\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\andre\\Documents\\GitHub\\PA_isla\\PL03\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
 }
