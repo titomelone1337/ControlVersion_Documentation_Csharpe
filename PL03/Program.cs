@@ -1,54 +1,65 @@
 using System;
 
+/// <summary>
+/// Main program class that tests the functionality of the Rectangulo and SquareClass classes.
+/// </summary>
 public class Program
 {
+    /// <summary>
+    /// Entry point of the application.
+    /// </summary>
     static void Main()
     {
-        // Testes com a classe Rectangulo...
-        Console.WriteLine("--- Testes com a classe Rectangulo ---");
+        // Tests with the Rectangulo class...
+        Console.WriteLine("--- Tests with the Rectangulo class ---");
         try
         {
-            Console.Write("Digite a base do retângulo: ");
+            Console.Write("Enter the base of the rectangle: ");
             double baseValue = double.Parse(Console.ReadLine());
 
-            Console.Write("Digite a altura do retângulo: ");
+            Console.Write("Enter the height of the rectangle: ");
             double alturaValue = double.Parse(Console.ReadLine());
 
+            /// <summary>
+            /// Creates a new instance of Rectangulo with the given values.
+            /// </summary>
             Rectangulo ret = new Rectangulo(baseValue, alturaValue);
-            Console.WriteLine($"\nRetângulo - Base: {ret.Base}, Altura: {ret.Altura}");
-            Console.WriteLine($"  Perímetro: {ret.Perimetro()}");
-            Console.WriteLine($"  Área: {ret.Area()}");
-            Console.WriteLine($"  Área123");
+            Console.WriteLine($"\nRectangle - Base: {ret.Base}, Height: {ret.Altura}");
+            Console.WriteLine($"  Perimeter: {ret.Perimetro()}");
+            Console.WriteLine($"  Area: {ret.Area()}");
         }
         catch (FormatException)
         {
-            Console.WriteLine("\nErro: Por favor, digite números válidos para a base e altura.");
+            Console.WriteLine("\nError: Please enter valid numbers for base and height.");
         }
         catch (ArgumentException ex)
         {
-            Console.WriteLine($"\nErro ao criar retângulo: {ex.Message}");
+            Console.WriteLine($"\nError creating rectangle: {ex.Message}");
         }
 
-        // Testes com a classe Quadrado
-        Console.WriteLine("\n--- Testes com a classe Quadrado ---");
+        // Tests with the SquareClass
+        Console.WriteLine("\n--- Tests with the SquareClass ---");
         try
         {
-            Console.Write("Digite o lado do quadrado: ");
+            Console.Write("Enter the side of the square: ");
             double ladoQuadrado = double.Parse(Console.ReadLine());
 
-            SquareClass quadrado = new SquareClass(ladoQuadrado);
-            Console.WriteLine($"\nQuadrado - Lado: {ladoQuadrado}");
-            Console.WriteLine($"  Perímetro: {quadrado.GetPerimeter()}");
-            Console.WriteLine($"  Área: {quadrado.GetArea()}");
-            Console.WriteLine($"  Diagonal: {quadrado.GetDiagonal()}");
+            /// <summary>
+            /// Creates a new instance of SquareClass with the given side length.
+            /// </summary>
+            SquareClass square = new SquareClass(ladoQuadrado);
+            Console.WriteLine($"\nSquare - Side: {ladoQuadrado}");
+            Console.WriteLine($"  Perimeter: {square.GetPerimeter()}");
+            Console.WriteLine($"  Area: {square.GetArea()}");
+            Console.WriteLine($"  Diagonal: {square.GetDiagonal()}");
         }
         catch (FormatException)
         {
-            Console.WriteLine("\nErro: Por favor, digite um número válido para o lado do quadrado.");
+            Console.WriteLine("\nError: Please enter a valid number for the square's side.");
         }
-        catch (ArgumentException ex) // Se você adicionar validação na SquareClass
+        catch (ArgumentException ex) // In case validation is added in SquareClass
         {
-            Console.WriteLine($"\nErro ao criar quadrado: {ex.Message}");
+            Console.WriteLine($"\nError creating square: {ex.Message}");
         }
     }
 }
