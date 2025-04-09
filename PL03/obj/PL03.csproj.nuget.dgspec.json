@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\andre\\Documents\\GitHub\\PA_isla\\PL03\\PL03.csproj": {}
   },
   "projects": {
@@ -12,12 +13,29 @@
         "projectPath": "C:\\Users\\andre\\Documents\\GitHub\\PA_isla\\PL03\\PL03.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\andre\\Documents\\GitHub\\PA_isla\\PL03\\obj\\",
+=======
+    "C:\\Users\\Rafael Males\\OneDrive\\Documentos\\GitHub\\PA_isla\\PL03\\PL03.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rafael Males\\OneDrive\\Documentos\\GitHub\\PA_isla\\PL03\\PL03.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafael Males\\OneDrive\\Documentos\\GitHub\\PA_isla\\PL03\\PL03.csproj",
+        "projectName": "PL03",
+        "projectPath": "C:\\Users\\Rafael Males\\OneDrive\\Documentos\\GitHub\\PA_isla\\PL03\\PL03.csproj",
+        "packagesPath": "C:\\Users\\Rafael Males\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael Males\\OneDrive\\Documentos\\GitHub\\PA_isla\\PL03\\obj\\",
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< Updated upstream
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Rafael Males\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> Stashed changes
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +44,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,13 +57,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -60,12 +73,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
