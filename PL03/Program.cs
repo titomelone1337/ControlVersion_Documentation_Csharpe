@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-=======
-﻿using System;
+using System;
 
 public class Program
 {
@@ -22,6 +18,7 @@ public class Program
             Console.WriteLine($"\nRetângulo - Base: {ret.Base}, Altura: {ret.Altura}");
             Console.WriteLine($"  Perímetro: {ret.Perimetro()}");
             Console.WriteLine($"  Área: {ret.Area()}");
+            Console.WriteLine($"  Área123");
         }
         catch (FormatException)
         {
@@ -55,4 +52,3 @@ public class Program
         }
     }
 }
->>>>>>> Stashed changes
