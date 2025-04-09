@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Afonso Silva\\Documents\\GitHub\\PA_isla\\",
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\PA_isla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|c:\\users\\afonso silva\\documents\\github\\pa_isla\\pl03\\rectangleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|solutionrelative:pl03\\rectangleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|c:\\users\\andre\\documents\\github\\pa_isla\\pl03\\squareclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|solutionrelative:pl03\\squareclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|c:\\users\\afonso silva\\documents\\github\\pa_isla\\pl03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|c:\\users\\andre\\documents\\github\\pa_isla\\pl03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BB8940E-F72A-4A7C-9C68-4809DCAA903A}|PL03\\PL03.csproj|solutionrelative:pl03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,50 +18,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "rectangleClass.cs",
-              "DocumentMoniker": "C:\\Users\\Afonso Silva\\Documents\\GitHub\\PA_isla\\PL03\\rectangleClass.cs",
-              "RelativeDocumentMoniker": "PL03\\rectangleClass.cs",
-              "ToolTip": "C:\\Users\\Afonso Silva\\Documents\\GitHub\\PA_isla\\PL03\\rectangleClass.cs",
-              "RelativeToolTip": "PL03\\rectangleClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Title": "SquareClass.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PA_isla\\PL03\\SquareClass.cs",
+              "RelativeDocumentMoniker": "PL03\\SquareClass.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PA_isla\\PL03\\SquareClass.cs",
+              "RelativeToolTip": "PL03\\SquareClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T14:29:39.753Z",
+              "WhenOpened": "2025-04-09T14:41:10.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Afonso Silva\\Documents\\GitHub\\PA_isla\\PL03\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\PA_isla\\PL03\\Program.cs",
               "RelativeDocumentMoniker": "PL03\\Program.cs",
-              "ToolTip": "C:\\Users\\Afonso Silva\\Documents\\GitHub\\PA_isla\\PL03\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\PA_isla\\PL03\\Program.cs",
               "RelativeToolTip": "PL03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T14:17:02.725Z",
               "EditorCaption": ""
