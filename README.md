@@ -22,7 +22,7 @@ This repository serves as a practical showcase of:
 
 - **Git** / **GitHub**
 - **Doxygen**
-- Programming Language: (Insert here, e.g., C++, Python)
+- Programming Language: (C#)
 - IDE: (Optional, e.g., VSCode, CLion)
 
 ## 🗂️ Getting Started
@@ -30,5 +30,5 @@ This repository serves as a practical showcase of:
 To explore this project:
 
 ```bash
-git clone https://github.com/tiagomelo/[your-repo-name].git
-cd [your-repo-name]
+git clone https://github.com/titomelone1337/PA_isla.git
+cd PA_isla
